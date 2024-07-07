@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\Miguel\source\repos\Collision Test\Main.cpp(17,48): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Miguel\source\repos\Collision Test\Main.cpp(17,31): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Miguel\source\repos\Collision Test\Main.cpp(23,49): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Miguel\source\repos\Collision Test\Main.cpp(23,32): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Miguel\source\repos\Collision Test\Main.cpp(37,60): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Miguel\source\repos\Collision Test\Main.cpp(37,34): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Miguel\source\repos\Collision Test\Main.cpp(46,49): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Miguel\source\repos\Collision Test\Main.cpp(46,23): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  Collision Test.vcxproj -> C:\Users\Miguel\source\repos\Collision Test\x64\Debug\Collision Test.exe
